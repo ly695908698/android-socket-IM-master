@@ -29,7 +29,7 @@ import android.os.Parcelable;
 public class NetConnect extends Thread{
 	
 	/*  information about Server, ip address and portal number  */
-	private String mHostIp="54.251.178.242";
+	private String mHostIp="www.liuyejun.top";
 //	private String mHostIp="192.168.208.128";
 
 	private int mHostPort=8888;
