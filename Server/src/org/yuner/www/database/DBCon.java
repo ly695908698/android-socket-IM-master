@@ -4,9 +4,9 @@ import java.sql.*;
 
 public class DBCon {
 
-	private static final String url = "jdbc:mysql://localhost";
-    private static final String user = "root";
-    private static final String password = "qqmima654123";
+	private static final String url = "jdbc:mysql://www.liuyejun.top";
+    private static final String user = "ly";
+    private static final String password = "ly1991813";
 
 	public static Connection getConnect() {
 		try {
